@@ -45,9 +45,9 @@ __NOTE:__ Faces with __Unidentified__ labels are faces on which the model is not
 
 __Example #1:__
 <br>Before:<br>
-<img src=https://github.com/Ankur1401/Face-Recognition-using-FaceNet/blob/master/test/vampire-diaries.jpg width=50%>
+<img src=https://github.com/arjunnag933/frufn.github.io/blob/main/test/vampire-diaries.jpg width=50%>
 <br>After:<br>
-<img src=https://github.com/Ankur1401/Face-Recognition-using-FaceNet/blob/master/test/predicted/vampire-diaries.jpg width=50%>
+<img src=https://github.com/arjunnag933/frufn.github.io/blob/main/test/predicted/vampire-diaries.jpg width=50%>
 
 __Example #2:__
 <br>Before:<br>
